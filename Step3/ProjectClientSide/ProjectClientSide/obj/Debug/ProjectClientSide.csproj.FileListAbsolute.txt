@@ -1,0 +1,100 @@
+c:\users\ufuk\documents\visual studio 2012\Projects\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+c:\users\ufuk\documents\visual studio 2012\Projects\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe
+c:\users\ufuk\documents\visual studio 2012\Projects\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.pdb
+c:\users\ufuk\documents\visual studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csprojResolveAssemblyReference.cache
+c:\users\ufuk\documents\visual studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Form1.resources
+c:\users\ufuk\documents\visual studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Properties.Resources.resources
+c:\users\ufuk\documents\visual studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csproj.GenerateResource.Cache
+c:\users\ufuk\documents\visual studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+c:\users\ufuk\documents\visual studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Form1.resources
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Properties.Resources.resources
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csproj.GenerateResource.Cache
+C:\Users\Ufuk\Desktop\cs408\ufukakgeyik_Akgeyik_Ufuk_Step1\Client\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+C:\Users\Ufuk\Desktop\cs408\ufukakgeyik_Akgeyik_Ufuk_Step1\Client\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe
+C:\Users\Ufuk\Desktop\cs408\ufukakgeyik_Akgeyik_Ufuk_Step1\Client\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.pdb
+C:\Users\Ufuk\Desktop\cs408\ufukakgeyik_Akgeyik_Ufuk_Step1\Client\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Ufuk\Desktop\cs408\ufukakgeyik_Akgeyik_Ufuk_Step1\Client\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Form1.resources
+C:\Users\Ufuk\Desktop\cs408\ufukakgeyik_Akgeyik_Ufuk_Step1\Client\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Properties.Resources.resources
+C:\Users\Ufuk\Desktop\cs408\ufukakgeyik_Akgeyik_Ufuk_Step1\Client\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csproj.GenerateResource.Cache
+C:\Users\Ufuk\Desktop\cs408\ufukakgeyik_Akgeyik_Ufuk_Step1\Client\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+C:\Users\Ufuk\Desktop\cs408\ufukakgeyik_Akgeyik_Ufuk_Step1\Client\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Desktop\CS408 Step 2\v7\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+C:\Users\Furkan\Desktop\CS408 Step 2\v7\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+C:\Users\Furkan\Desktop\CS408 Step 2\v7\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\Ufuk\Desktop\v8\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+C:\Users\Ufuk\Desktop\v8\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+C:\Users\Ufuk\Desktop\v8\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\Ufuk\Desktop\v8\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe
+C:\Users\Ufuk\Desktop\v8\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.pdb
+C:\Users\Ufuk\Desktop\v8\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Ufuk\Desktop\v8\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Form1.resources
+C:\Users\Ufuk\Desktop\v8\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Properties.Resources.resources
+C:\Users\Ufuk\Desktop\v8\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csproj.GenerateResource.Cache
+C:\Users\Ufuk\Desktop\408v10\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+C:\Users\Ufuk\Desktop\408v10\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe
+C:\Users\Ufuk\Desktop\408v10\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.pdb
+C:\Users\Ufuk\Desktop\408v10\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Form1.resources
+C:\Users\Ufuk\Desktop\408v10\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Properties.Resources.resources
+C:\Users\Ufuk\Desktop\408v10\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csproj.GenerateResource.Cache
+C:\Users\Ufuk\Desktop\408v10\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+C:\Users\Ufuk\Desktop\408v10\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Desktop\v13\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+C:\Users\Furkan\Desktop\v13\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+C:\Users\Furkan\Desktop\v13\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Desktop\v13\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe
+C:\Users\Furkan\Desktop\v13\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Desktop\v13\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\v13\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Form1.resources
+C:\Users\Furkan\Desktop\v13\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Properties.Resources.resources
+C:\Users\Furkan\Desktop\v13\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csproj.GenerateResource.Cache
+C:\Users\Ufuk\Desktop\v14\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+C:\Users\Ufuk\Desktop\v14\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe
+C:\Users\Ufuk\Desktop\v14\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.pdb
+C:\Users\Ufuk\Desktop\v14\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Form1.resources
+C:\Users\Ufuk\Desktop\v14\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Properties.Resources.resources
+C:\Users\Ufuk\Desktop\v14\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csproj.GenerateResource.Cache
+C:\Users\Ufuk\Desktop\v14\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+C:\Users\Ufuk\Desktop\v14\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\edacaner\Desktop\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+C:\Users\edacaner\Desktop\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe
+C:\Users\edacaner\Desktop\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.pdb
+C:\Users\edacaner\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csprojResolveAssemblyReference.cache
+C:\Users\edacaner\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Form1.resources
+C:\Users\edacaner\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Properties.Resources.resources
+C:\Users\edacaner\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csproj.GenerateResource.Cache
+C:\Users\edacaner\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+C:\Users\edacaner\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Desktop\CS408-step 3\furkankemikli_Kemikli_Furkan_Step2\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+C:\Users\Furkan\Desktop\CS408-step 3\furkankemikli_Kemikli_Furkan_Step2\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+C:\Users\Furkan\Desktop\CS408-step 3\furkankemikli_Kemikli_Furkan_Step2\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Desktop\CS408-step 3\furkankemikli_Kemikli_Furkan_Step2\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe
+C:\Users\Furkan\Desktop\CS408-step 3\furkankemikli_Kemikli_Furkan_Step2\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Desktop\CS408-step 3\furkankemikli_Kemikli_Furkan_Step2\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\CS408-step 3\furkankemikli_Kemikli_Furkan_Step2\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Form1.resources
+C:\Users\Furkan\Desktop\CS408-step 3\furkankemikli_Kemikli_Furkan_Step2\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Properties.Resources.resources
+C:\Users\Furkan\Desktop\CS408-step 3\furkankemikli_Kemikli_Furkan_Step2\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csproj.GenerateResource.Cache
+C:\Users\Ufuk\Desktop\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+C:\Users\Ufuk\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+C:\Users\Ufuk\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\Ufuk\Desktop\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe
+C:\Users\Ufuk\Desktop\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.pdb
+C:\Users\Ufuk\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Form1.resources
+C:\Users\Ufuk\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Properties.Resources.resources
+C:\Users\Ufuk\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\CS408-step 3\new\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe.config
+C:\Users\Furkan\Desktop\CS408-step 3\new\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.exe
+C:\Users\Furkan\Desktop\CS408-step 3\new\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Desktop\CS408-step 3\new\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.exe
+C:\Users\Furkan\Desktop\CS408-step 3\new\ProjectClientSide\ProjectClientSide\bin\Debug\ProjectClientSide.pdb
+C:\Users\Furkan\Desktop\CS408-step 3\new\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\CS408-step 3\new\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Form1.resources
+C:\Users\Furkan\Desktop\CS408-step 3\new\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.Properties.Resources.resources
+C:\Users\Furkan\Desktop\CS408-step 3\new\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csproj.GenerateResource.Cache
+C:\Users\Ufuk\Desktop\ProjectClientSide\ProjectClientSide\obj\Debug\ProjectClientSide.csprojResolveAssemblyReference.cache
